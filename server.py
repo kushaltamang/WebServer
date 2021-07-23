@@ -1,4 +1,4 @@
-#Name: Mohit Tamang   Student ID: 1001552822
+#Name: Mohit Tamang  
 from socket import *
 import threading
 
